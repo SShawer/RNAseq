@@ -33,6 +33,6 @@ The analysis pipeline follows the following steps
 
 10- Generating normalised read counts using **"StringTie"**
 
-11- Differential gene expression using **"DESeq2 within R"
+11- Differential gene expression using **"DESeq2 within R"**
 
 12- Data visualisation using **"multiple libraries within R (gplot, ggplot2, EnhancedVolcano)"**
