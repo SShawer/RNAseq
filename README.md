@@ -29,10 +29,12 @@ The analysis pipeline follows the following steps
 
 8- Aligning reads to index using **"STAR"**
 
-9- Assigning read counts to genes using **"featureCounts"**
+9- Indexing BAM files and creating BAI files using **"SAMtools"** 
 
-10- Generating normalised read counts using **"StringTie"**
+10- Assigning read counts to genes using **"featureCounts"**
 
-11- Differential gene expression using **"DESeq2 within R"**
+11- Generating normalised read counts using **"StringTie"**
 
-12- Data visualisation using **"multiple libraries within R (gplot, ggplot2, EnhancedVolcano)"**
+12- Differential gene expression using **"DESeq2 within R"**
+
+13- Data visualisation using **"multiple libraries within R (gplot, ggplot2, EnhancedVolcano)"**
