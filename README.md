@@ -8,7 +8,7 @@ This pipeline assumes you have access to a High Performance computer with the re
 
 I will be using bash script with a SLURM worload manager/scheduler. This is apparent in the shabang at the begining of each script. You can adjust accordingly. 
 
-You will need to start with a directory called fastq containing the raw .fastq.gz files. You will need to run the scripts in order.
+You will need to start with a directory called fastq containing the raw .fastq.gz files and another directory called scripts in which you will keep all the script files. You will need to run the scripts in order.
 
 The analysis pipeline follows the following steps
 -------------------------------------------------
