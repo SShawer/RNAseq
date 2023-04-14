@@ -34,3 +34,4 @@ STAR --runThreadN 6 \
 echo ""
 echo "----- DONE -----"
 echo ""
+date 
