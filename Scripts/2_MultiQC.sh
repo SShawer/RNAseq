@@ -28,4 +28,4 @@ multiqc "$report_dir" -o "$multiqc_dir"
 
 # Print completion message
 echo "MultiQC analysis complete"
-
+date
