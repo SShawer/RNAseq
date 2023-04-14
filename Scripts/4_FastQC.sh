@@ -30,4 +30,4 @@ fastqc -o "$report_dir" --threads 4 --dir "$temp_dir" "$fastq_dir/*.fq.gz"
 
 # Print completion message
 echo "FastQC analysis complete"
-
+date
