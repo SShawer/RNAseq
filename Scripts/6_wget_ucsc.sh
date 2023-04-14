@@ -24,7 +24,7 @@ gunzip ../genome_ucsc/hg38.fa.gz
 echo ""
 echo "----- DONE -----"
 echo ""
-
+date
 
 
 
