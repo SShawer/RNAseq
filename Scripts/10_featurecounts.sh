@@ -47,3 +47,4 @@ cut -f 1,7,8,9,10,11,12 "${output_dir}counts.txt" > "${output_dir}cleaned_counts
 echo ""
 echo "----- DONE -----"
 echo ""
+date 
